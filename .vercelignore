@@ -1,0 +1,15 @@
+# Ignorar o diretório node_modules
+node_modules/
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos de teste
+test/
+
+# Ignorar arquivos de documentação
+docs/
+
+# Ignorar arquivos temporários de build
+.next/
+.vercel/
