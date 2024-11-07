@@ -13,3 +13,6 @@ docs/
 # Ignorar arquivos temporários de build
 .next/
 .vercel/
+
+# Ignorar arquivos da pasta Upload
+uploads/*
